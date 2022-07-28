@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BraveKing.Shop", "BraveKing.Shop\BraveKing.Shop.csproj", "{49A6382F-F793-4EA6-9640-B2C555A18720}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BraveKing.Shop.API", "BraveKing.Shop\BraveKing.Shop.API.csproj", "{49A6382F-F793-4EA6-9640-B2C555A18720}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
